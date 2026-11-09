@@ -1,1 +1,1 @@
-testuser:testpass:BFEBFBFF000506E3
+admin:123:BFEBFBFF000506E3
